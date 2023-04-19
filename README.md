@@ -38,4 +38,4 @@ for img in istock.search(text="cat", page=1):
 ```
 
 ## Developer
-Telegram: [t.me/O0O0I](https://t.me/O0O0I)
+Telegram: [https://t.me/O0O0I](https://t.me/O0O0I)
