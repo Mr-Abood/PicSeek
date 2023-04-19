@@ -7,7 +7,7 @@ PicSeek is a Python library for searching for images on IStock and Flickr. It pr
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PicSeek.
 
 ```bash
-pip install PicSeek
+pip install PicSeek==1.0.0
 ```
 
 ## Examples
