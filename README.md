@@ -17,7 +17,7 @@ from picseek import Flickr
 
 flickr = Flickr()
 
-for img in flickr.search(text="cat", page=1, per_page=2):
+for img in flickr.search(text="cat", page=1, per_page=20):
 	print(img.link)
 	#print(img.content)
 	#print(img.base64)
