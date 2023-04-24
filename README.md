@@ -13,7 +13,7 @@ pip install PicSeek==1.0.0
 ## Examples
 ### Search in Flickr
 ``` python
-from picseek import Flickr
+from PicSeek import Flickr
 
 flickr = Flickr()
 
@@ -26,7 +26,7 @@ for img in flickr.search(text="cat", page=1, per_page=20):
 
 ### Search in IStock
 ``` python
-from picseek import IStock
+from PicSeek import IStock
 
 istock = IStock()
 
